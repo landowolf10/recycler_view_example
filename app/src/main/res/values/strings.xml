@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes app Kotlin</string>
+    <string name="mailTextox">Email</string>
+    <string name="pswdTextbox">Password</string>
+    <string name="login">Login</string>
+    <string name="createUser">Create user</string>
+    <string name="registerUserLabel">Register user</string>
+    <string name="name">Name</string>
+    <string name="mail">Mail</string>
+    <string name="password">Password</string>
+    <string name="registerUser">Register user</string>
+</resources>
